@@ -1,5 +1,6 @@
-
 declare module 'react-selectable' {
+    import * as React from "react";
+
     interface ReactSelectableGroupProps {
         onSelection?: (selectedItems: Array<any>) => void;
         onNonItemClick?: () => void;
