@@ -260,9 +260,7 @@ class SelectableGroup extends Component {
 		};
 
 		const spanStyle = {
-			background: 'rgba(38,161,199,0.5)',
-			backgroundColor: 'red',
-			border: '2px solid rgba(38,161,199,0.5)',
+			background: 'rgba(107, 191, 227, 0.13)',
 			width: '100%',
 			height: '100%',
 			float: 'left'
